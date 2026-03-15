@@ -1,0 +1,5 @@
+[submodule "Systemd-rc"]
+    path = freebsd-src
+    url = https://github.com/freebsd/freebsd-src.git
+    branch = stable/15
+
